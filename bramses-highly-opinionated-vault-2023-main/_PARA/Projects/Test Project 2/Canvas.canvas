@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"93c08eb1160c3b27","type":"group","x":-1915,"y":-624,"width":1375,"height":1478,"label":"Riddles"},
+		{"id":"cc653fafaa7e0034","type":"group","x":-1302,"y":-135,"width":296,"height":518,"label":"answers"},
+		{"id":"d0fa4661d882b6e6","type":"group","x":-850,"y":-140,"width":290,"height":522,"label":"questions"},
+		{"id":"16468f502a3bc319","type":"text","text":"# Test Project 2","x":-125,"y":-30,"width":238,"height":83},
+		{"id":"60c5a37640be95ab","type":"file","file":"Private/Attachments/seinfeld the art of seduction.png","x":259,"y":-544,"width":400,"height":267},
+		{"id":"f91f328db2956dc7","type":"text","text":"how much wood would a woodchuck chuck if a wood chuck could chuck wood?","x":-829,"y":79,"width":249,"height":130,"color":"3"},
+		{"id":"3243dcaa7c5919ce","type":"text","text":"What goes up but never comes down?","x":-830,"y":-120,"width":250,"height":60,"color":"3"},
+		{"id":"5ae8523c2ddeebed","type":"text","text":"What gets wet while drying?","x":-830,"y":302,"width":250,"height":60,"color":"3"},
+		{"id":"ec59fd1e4c1ec2cf","type":"text","text":"## Beaver Logic\n1. Collect logs\n2. ???\n3. Profit","x":-1282,"y":116,"width":256,"height":93},
+		{"id":"3579b750ffffac15","type":"text","text":"Towel!","x":-1282,"y":303,"width":250,"height":60},
+		{"id":"ae527fb03b3c1235","type":"text","text":"Age","x":-1282,"y":-115,"width":250,"height":60},
+		{"id":"e318a22680ebaed3","type":"link","url":"https://media.giphy.com/media/rN3DPrls6FQgT4dH5i/giphy.gif","x":-1895,"y":-55,"width":400,"height":400},
+		{"id":"ebc0babdbf2c67ef","type":"link","url":"https://media.giphy.com/media/l0HlGEICWt0wCRAxW/giphy.gif","x":-1895,"y":434,"width":400,"height":400},
+		{"id":"14e5760342332abd","type":"link","url":"https://media.giphy.com/media/8JrcyXvpOaFbFIatkm/giphy.gif","x":-1895,"y":-544,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"86676327f97651a2","fromNode":"16468f502a3bc319","fromSide":"top","toNode":"60c5a37640be95ab","toSide":"bottom","label":"mood"},
+		{"id":"f97cc480fe5c0d23","fromNode":"16468f502a3bc319","fromSide":"left","toNode":"f91f328db2956dc7","toSide":"right"},
+		{"id":"8fb0a748b3cc8173","fromNode":"f91f328db2956dc7","fromSide":"left","toNode":"ec59fd1e4c1ec2cf","toSide":"right"},
+		{"id":"dd288e1794a96d26","fromNode":"5ae8523c2ddeebed","fromSide":"left","toNode":"3579b750ffffac15","toSide":"right"},
+		{"id":"b90edf5bba2462ca","fromNode":"3243dcaa7c5919ce","fromSide":"left","toNode":"ae527fb03b3c1235","toSide":"right"},
+		{"id":"e312dde405250ca3","fromNode":"16468f502a3bc319","fromSide":"left","toNode":"3243dcaa7c5919ce","toSide":"right"},
+		{"id":"1550ab90e493bd76","fromNode":"16468f502a3bc319","fromSide":"left","toNode":"5ae8523c2ddeebed","toSide":"right"},
+		{"id":"25d05ae1caf16eff","fromNode":"ec59fd1e4c1ec2cf","fromSide":"left","toNode":"e318a22680ebaed3","toSide":"right"},
+		{"id":"d5de300f48a23461","fromNode":"ae527fb03b3c1235","fromSide":"left","toNode":"14e5760342332abd","toSide":"right"},
+		{"id":"01951e2d2f71e05a","fromNode":"3579b750ffffac15","fromSide":"left","toNode":"ebc0babdbf2c67ef","toSide":"right"}
+	]
+}

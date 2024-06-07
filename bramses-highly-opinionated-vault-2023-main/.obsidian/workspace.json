@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "f2da537d38fa6643",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fde841227753554",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa7779fed8ad75a1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7389ebf565dfa86d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computed/CRM.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "adc4fd916987898c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e1fc648f46914c4",
+        "type": "tabs",
+        "dimension": 79.53703703703704,
+        "children": [
+          {
+            "id": "cdbe46f476d5c797",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Readwise",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "885911e69901227d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9074437940921a26",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4af83666f6f49517",
+        "type": "tabs",
+        "dimension": 20.462962962962962,
+        "children": [
+          {
+            "id": "615cd7309793c2a1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "starred",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "d51c28db626a700f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b2837026535a9eaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d1a900f5bead1b0",
+        "type": "tabs",
+        "dimension": 66.2962962962963,
+        "children": [
+          {
+            "id": "c6b1d00458e0be0c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computed/CRM.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee82127d04d5085f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computed/CRM.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e5fe5bc3d2c62bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "adac87bf000fcff8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computed/CRM.md"
+              }
+            }
+          },
+          {
+            "id": "c102a50492c64997",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "579a57490c31c46e",
+        "type": "tabs",
+        "dimension": 33.7037037037037,
+        "children": [
+          {
+            "id": "b6f8141af5bfec88",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "command-palette:Open command palette": true,
+      "zk-prefixer:Create new unique note": true,
+      "random-note:Open random note": true,
+      "obsidian-gallery:Gallery": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-map-view:Open map view": false,
+      "open-vscode:VSCode": false,
+      "cmdr:QuickAdd: Add to Project Scratchpad": false,
+      "cmdr:QuickAdd: Create New Project": false,
+      "cmdr:QuickAdd: Add to Project Kanban": false,
+      "cmdr:Linter: Lint the current file": false,
+      "cmdr:QuickAdd: Capture Thought": false,
+      "cmdr:Luhman: Insert Zettel Link": false,
+      "cmdr:QuickAdd: Move Zettel to Private": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "7389ebf565dfa86d",
+  "lastOpenFiles": [
+    "Computed/Tasks.md",
+    "Computed/Workouts.md",
+    "Computed/To Process.md",
+    "Computed/Trackers.md",
+    "Computed/Computed.md",
+    "_tests/_tests.md",
+    "_PARA/Projects/Projects.md",
+    "_PARA/Projects/Test Project 2/Scratchpad.md",
+    "_PARA/Projects/Test Project 2/Resources.md",
+    "_PARA/Projects/Test Project 2/Kanban.md",
+    "_PARA/Projects/Test Project 2/Canvas.canvas",
+    "_PARA/Projects/Test Project 2/Test Project 2.md",
+    "_PARA/Projects/Test Project/Scratchpad.md",
+    "_PARA/Projects/Test Project/Resources.md",
+    "_PARA/Projects/Test Project/Kanban.md",
+    "_PARA/Projects/Test Project/Test Project.md",
+    "_tutorial/Hotkeys.md",
+    "_tutorial/Attachments/Screenshot 2022-12-17 17-19-10.png",
+    "_tutorial/Attachments/Screenshot 2022-12-17 17-19-03.png",
+    "_tutorial/Attachments/Screenshot 2022-12-17 17-18-53.png",
+    "_tutorial/Attachments/Screenshot 2022-12-17 17-18-44.png",
+    "_tutorial/Attachments/Screenshot 2022-12-17 17-18-40.png",
+    "_tutorial/Attachments/calendar.png",
+    "202212151455.md",
+    "202212090136.md",
+    "Templates/Weekly.md",
+    "Templates/Templates.md",
+    "Templates/Recipes.md",
+    "Readwise-Example/Articles Test/The Ancient Japanese Technique That Produces Lumber Without Cutting Trees.md",
+    "Private/202212141113.md",
+    "Inbox/Inbox.md",
+    "Inbox/Computer Capture/Computer Capture.md",
+    "Inbox/Computer Capture/2022-12-11--12-00-00.md"
+  ]
+}
